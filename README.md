@@ -10,10 +10,18 @@
 
 ### [Project Folder](/madlibs/01_madlibs.py)
 
-## Project 02 - Guess the number
+## Project 02 - Guess the number (computer)
 
 ### Concepts Applied:
 
-- xxx
+- while loop
 
-### [Project Folder](/)
+### [Project Folder](/guessnumber/guess_computer.py)
+
+## Project 03 - Guess the number (user)
+
+### Concepts Applied:
+
+- while loop
+
+### [Project Folder](/guessnumber/guess_user.py)
