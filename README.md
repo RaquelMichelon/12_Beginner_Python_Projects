@@ -25,3 +25,12 @@
 - while loop
 
 ### [Project Folder](/guessnumber/guess_user.py)
+
+## Project 04 - Rock Paper Scissors
+
+### Concepts Applied:
+
+- If Statement
+- random function
+
+### [Project Folder](/rock_paper_scissors/rock_paper_scissors.py)
