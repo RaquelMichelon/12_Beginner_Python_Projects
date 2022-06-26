@@ -34,3 +34,12 @@
 - random function
 
 ### [Project Folder](/rock_paper_scissors/rock_paper_scissors.py)
+
+## Project 05 - Hangman
+
+### Concepts Applied:
+
+- while loop
+- functions
+
+### [Project Folder](/hangman/hangman.py)
